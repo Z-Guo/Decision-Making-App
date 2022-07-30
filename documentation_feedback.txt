@@ -1,0 +1,13 @@
+DOCUMENTATION FEEDBACK:
+
+You cover the basics of your project here, but I felt that this could be improved upon slightly. 
+For example, detailing more information about your project - i.e a python based system with xyz front-end. 
+Good separation of core and bonus features. You should make your sample architecture larger so that it’s easier to read 
+- if you include this document in your final project, please also check for certain spelling and grammar. 
+Architecture diagram is simple but effective. You could be more specific here about the distribution of workload - 
+define who will actually be doing what. Also, you could include how you will follow an agile workflow. 
+Well thought through exploration of testing, possibly the most detailed section of the documentation. 
+Overall, this document meets the requirements but could be more detailed in order to really champion your project 
+and give you a clear road map. 
+
+Score: 90/100

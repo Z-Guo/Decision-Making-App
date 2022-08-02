@@ -8,4 +8,4 @@ Please create your own branch, using the command below:
 
 `git checkout -b <branchname>`
 
-i.e. git checkout -b zilings-awesome-branch
+i.e. git checkout -b ziling-unit-testing

@@ -12,7 +12,15 @@ i.e. git checkout -b zilings-awesome-branch
 
 ## How to run flask
 
+### Backend server
+
 ```
 $ export FLASK_APP=api
-$ flask run
+$ flask run --port 5001
+```
+
+### Frontend server
+
+```
+$ python frontend/server.py
 ```

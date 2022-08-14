@@ -22,6 +22,13 @@ Install the required modules (flask>=2.1, requests) using the requirements.txt f
 $ pip install -r requirements.txt
 ```
 
+Set the API Key environment variable on the terminal using the command below:
+
+```
+$ export TMDB_API_KEY=<YOUR_API_KEY>
+```
+You can get your API Key [here](https://www.themoviedb.org/documentation/api)
+
 Start the server in your local machine
 
 ```
